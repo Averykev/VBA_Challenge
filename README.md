@@ -1,2 +1,3 @@
-# VBA_Challenge
-This is the homework for the VBA unit of the Data Science bootcamp.
+VBA Challenge:
+
+This project utilizes VBA scripting to analyze real stock market data.
